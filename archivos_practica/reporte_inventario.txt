@@ -1,0 +1,16 @@
+                   REPORTE DE INVENTARIO                    
+============================================================
+Código Producto                    Precio  Cant      Total
+------------------------------------------------------------
+001    Laptop Dell XPS            2500.00    15   37500.00
+005    Audífonos Sony WH           320.00    25    8000.00
+007    SSD 1TB Samsung             200.00    35    7000.00
+004    Monitor 27 pulgadas         750.00     8    6000.00
+008    RAM 16GB Corsair             90.00    50    4500.00
+003    Teclado Mecánico            120.00    30    3600.00
+002    Mouse Logitech MX            85.50    42    3591.00
+010    Hub USB-C 7 puertos          55.00    60    3300.00
+006    Webcam Logitech C920        150.00    18    2700.00
+009    Router WiFi 6               180.00    12    2160.00
+============================================================
+                                     GRAN TOTAL:   78351.00
